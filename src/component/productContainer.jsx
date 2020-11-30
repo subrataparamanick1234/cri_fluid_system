@@ -4,7 +4,7 @@ const productContainer = () => {
     return (
         <div>
 
-            <p className="font-weight-bold  mt-3 p-4 pb-0">INSTALLED OVER 10 LAKHS STAR RATED PUMPSETS ACROSS THE COUNTRY RESULTING IN A
+            <p className="font-weight-bold  mt-3 p-4 pb-0 text-justify">INSTALLED OVER 10 LAKHS STAR RATED PUMPSETS ACROSS THE COUNTRY RESULTING IN A
             CUMULATIVE SAVING OF MORE THAN 9,000 MILLION UNITS OF POWER FOR THE NATION.</p>
             <div className="container my-5 py-5 z-depth-1 ">
                 <section className="px-md-5 mx-md-5 text-center text-lg-left dark-grey-text">
