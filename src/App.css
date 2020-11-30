@@ -25,11 +25,11 @@ body {
   padding: 0px; /* remove bootstrap padding on floated image containers -  */ 
 }
 .navbar-brand>img {
-  height: 100%;
+  /*height: 100%;
   width: 350px;
 /* padding for image ... text needs no padding */
- padding-top: 4px; 
- padding-left: 7px;
+ /*padding-top: 4px; 
+ padding-left: 7px;*/
 }
 /* Responsive navigation menu (for mobile devices) */
 @media screen and (max-width: 600px) {
